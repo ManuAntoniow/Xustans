@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esta aplicacion se encunetra disponible en [https://manuantoniow.github.io/Xustans/] (https://manuantoniow.github.io/Xustans/)
 
 ## Available Scripts
 
