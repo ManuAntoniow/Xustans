@@ -21,9 +21,9 @@ function App() {
         <NavBar/>
         <main className="App-main">  
           <Routes>
-            <Route path='/' element={<Inicio/>}/>
-            <Route path='/ubicacion' element={<Ubicacion/>}/>
-            <Route path='/contactenos' element={<Contactenos/>}/>
+            <Route path='/Xustans' element={<Inicio/>}/>
+            <Route path='/Xustans/ubicacion' element={<Ubicacion/>}/>
+            <Route path='/Xustans/contactenos' element={<Contactenos/>}/>
           </Routes>
         </main>
         <Footer/>
