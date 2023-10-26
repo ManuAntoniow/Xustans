@@ -17,9 +17,9 @@ const NavBar = () => {
         <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link as={Link} to='/'>Inicio</Nav.Link>
-            <Nav.Link as={Link} to='/Ubicacion'>Ubicacion</Nav.Link>
-            <Nav.Link as={Link} to='/Contactenos'>Contactenos</Nav.Link>
+            <Nav.Link as={Link} to='/Xustans'>Inicio</Nav.Link>
+            <Nav.Link as={Link} to='/Xustans/Ubicacion'>Ubicacion</Nav.Link>
+            <Nav.Link as={Link} to='/Xustans/Contactenos'>Contactenos</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
