@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Xustans/static/css/main.d6715f77.css",
-    "main.js": "/Xustans/static/js/main.18be23c3.js",
+    "main.js": "/Xustans/static/js/main.c85a4c5e.js",
     "static/media/Argentina_-_Buenos_Aires_-_Pehuajó.svg.png": "/Xustans/static/media/Argentina_-_Buenos_Aires_-_Pehuajó.svg.b39cafd488dc63bc89c5.png",
     "static/media/LOGO.jpeg": "/Xustans/static/media/LOGO.63bb188baa7a9cc42dd2.jpeg",
     "index.html": "/Xustans/index.html",
     "main.d6715f77.css.map": "/Xustans/static/css/main.d6715f77.css.map",
-    "main.18be23c3.js.map": "/Xustans/static/js/main.18be23c3.js.map"
+    "main.c85a4c5e.js.map": "/Xustans/static/js/main.c85a4c5e.js.map"
   },
   "entrypoints": [
     "static/css/main.d6715f77.css",
-    "static/js/main.18be23c3.js"
+    "static/js/main.c85a4c5e.js"
   ]
 }
